@@ -1,0 +1,165 @@
+/*** Start Navbar Style ***/
+
+/* .navbar-section .bg-light {
+    background-color: #FFFFFF !important;
+    padding: 10px 15px;
+    z-index: 1
+  }
+  
+  .navbar-section .navbar-brand {
+    margin: 0;
+    padding: 0;
+    margin-left: 4%;
+    width: 125px;
+  }
+  
+  .navbar-section .navbar-brand img {
+    width: 100%
+  }
+  
+  .navbar-section .navbar-nav {
+    padding-right: 25px;
+  }
+  
+  .navbar-section .user-link .user-img {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    border: 1px solid #747474;
+    vertical-align: middle;
+  }
+  
+  .navbar-section .user-link .user-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  
+  .navbar-section .user-link .user-info {
+    display: inline-block;
+    font-size: 14px;
+    font-family: Poppins-Bold;
+    color: #022D48;
+    vertical-align: middle;
+    padding-left: 8px;
+    line-height: 14px
+  }
+  
+  .navbar-section .user-link .user-info span {
+    display: block;
+    font-size: 11px;
+    color: #747474;
+  }
+  
+  .navbar-section .settings .dropdown-toggle::after,
+  .navbar-section .notification .dropdown-toggle::after {
+    display: none
+  }
+  
+  .navbar-section .navbar-light .nav-link {
+    padding-right: 25px;
+    padding-left: 25px
+  }
+  
+  .navbar-section .logout .nav-link:last-child {
+    padding-right: 0;
+    cursor: pointer;
+  }
+  
+  .navbar-section .user-link .nav-link {
+    padding: 0;
+    padding-right: 25px
+  }
+  
+  .navbar-section .settings,
+  .navbar-section .notification {
+    position: relative;
+    cursor: pointer
+  }
+  
+  .navbar-section .settings .dropdown-menu,
+  .navbar-section .notification .dropdown-menu {
+    left: -260px;
+    min-width: 320px;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    box-shadow: 0px 1px 3px rgba(199, 196, 196, 0.6);
+    padding: 0;
+  
+  }
+  
+  .navbar-section .settings .dropdown-menu {
+    left: -80px;
+    min-width: 10rem;
+  }
+  
+  .navbar-section .icon-links {
+    color: #C5C5C5;
+    font-size: 23px;
+    vertical-align: middle;
+  }
+  
+  
+  .navbar-section .notification .active-notification {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #F52B2B;
+    position: absolute;
+    top: 10px;
+    right: 25px;
+  }
+  
+  .navbar-section .notification .dropdown-menu p {
+    display: inline-block;
+    font-size: 14px;
+    font-family: Poppins-Bold;
+    color: #0B4B74;
+    margin: 0
+  }
+  
+  .navbar-section .notification .dropdown-menu .userNameNoti span {
+    color: #a2a2a2;
+    font-size: 12px;
+    float: right;
+    position: relative;
+    top: 4px;
+  }
+  
+  .navbar-section .notification .dropdown-menu .notification-date {
+    text-align: right;
+    color: #747474;
+    font-size: 11px;
+  }
+  
+  .navbar-section .settings .dropdown-item,
+  .navbar-section .notification .dropdown-item {
+    padding: 15px 30px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .navbar-section .settings .dropdown-item {
+    padding: 7px 14px;
+    color: #a2a2a2;
+    font-size: 13px;
+  }
+  
+  .navbar-section .settings .dropdown-item i {
+    color: #0B4B74;
+    padding-right: 5px;
+  }
+  
+  .navbar-section .settings .dropdown-item:focus,
+  .navbar-section .settings .dropdown-item:hover,
+  .navbar-section .notification .dropdown-item:focus,
+  .navbar-section .notification .dropdown-item:hover {
+    text-decoration: none;
+    background-color: #DBF7FE;
+  }
+  
+  .navbar-section .notification .active-row {
+    background-color: #DBF7FE;
+  }
+  
+   */
